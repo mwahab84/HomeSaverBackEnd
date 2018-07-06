@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeSaverBackEnd", "HomeSaverBackEnd.csproj", "{507B9E7C-29EB-4769-8E01-F7C9CD778516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{507B9E7C-29EB-4769-8E01-F7C9CD778516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{507B9E7C-29EB-4769-8E01-F7C9CD778516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{507B9E7C-29EB-4769-8E01-F7C9CD778516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{507B9E7C-29EB-4769-8E01-F7C9CD778516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
